@@ -1,4 +1,6 @@
 # Encryption-using-Shift-Cipher
+Comments and reviews will be appreciated: If you need any help please don't hesitate to contact me on : darji@uwindsor.ca or                                                                                                                       savanddarji@gmail.com
+
 The code converts plain text into shift cipher text.
 
 It requires two inputs: 1. Plain text (any size - needs to be enlish letters(A-z or a-z) and
@@ -14,4 +16,4 @@ Enter the Key:6
 
 Your shift ciphered text for the given key: utikavutgzoskznkxkrobkjgroutotgluxkyzutkjgeglzkxgnkgbeskgrozcgyyrkkvotmatjkxgzxkkglzkxgcnorkznkxkigskgsuaykgtjozyzgxzkjzuvrgeutznkroutyajjktreznkroutmuzavcozngtmkxgtjruuqkjluxznuykcnujoyzaxhkjozytoikyrkkvznktozygcgysgrrsuaykyzgtjotmzxkshrotmcoznlkgxznkroutpasvkjutozgtjyzgxzkjzuqorrozznksuaykxkwakyzkjznkroutzuluxmobkozznkroutlkrzvozegtjrklzozznksuaykxgtgcgeh
 
-Note : If you want to recover your plain text then you can use 
+Note : If you want to recover your plain text then you can use https://github.com/savanddarji/Cracking-a-Shift-Cipher
